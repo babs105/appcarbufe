@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appcarbufe/static/css/main.02ba8d78.chunk.css",
+    "main.js": "/appcarbufe/static/js/main.58e4d560.chunk.js",
+    "main.js.map": "/appcarbufe/static/js/main.58e4d560.chunk.js.map",
+    "runtime-main.js": "/appcarbufe/static/js/runtime-main.6f3dfe05.js",
+    "runtime-main.js.map": "/appcarbufe/static/js/runtime-main.6f3dfe05.js.map",
+    "static/js/2.d21e84f9.chunk.js": "/appcarbufe/static/js/2.d21e84f9.chunk.js",
+    "static/js/2.d21e84f9.chunk.js.map": "/appcarbufe/static/js/2.d21e84f9.chunk.js.map",
+    "index.html": "/appcarbufe/index.html",
+    "precache-manifest.9f96d39b3b65f2dd8ff0b24ead4d8c7d.js": "/appcarbufe/precache-manifest.9f96d39b3b65f2dd8ff0b24ead4d8c7d.js",
+    "service-worker.js": "/appcarbufe/service-worker.js",
+    "static/css/main.02ba8d78.chunk.css.map": "/appcarbufe/static/css/main.02ba8d78.chunk.css.map",
+    "static/js/2.d21e84f9.chunk.js.LICENSE": "/appcarbufe/static/js/2.d21e84f9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f3dfe05.js",
+    "static/js/2.d21e84f9.chunk.js",
+    "static/css/main.02ba8d78.chunk.css",
+    "static/js/main.58e4d560.chunk.js"
+  ]
+}
